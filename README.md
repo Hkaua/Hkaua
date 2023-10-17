@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Kauã</h1> 
+<h1>Olá! Eu sou o Kauã</h1> <br>
 
 <h2>Algumas coisas sobre mim 👇</h2>
 
@@ -15,9 +15,9 @@
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
  <div >
-  
+
 <h2>Linguagens que Estou Aprendendo </h2>
 </div>
 <div style="display: inline_block"><br>
