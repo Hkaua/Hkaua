@@ -11,15 +11,15 @@
  <h2>Repertório</h2>
 <div>
 <p align="center">
-<img height="160em" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&line_height=21&theme=react"/>
-<img height="165em" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
+<img height="50%" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&line_height=21&theme=react"/>
+<img height="172em" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
 
-
-
+<br><br><br><br><br><br><br><br>
+ <div >
   
 <h2>Linguagens que estou aprendendo </h2>
-
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
