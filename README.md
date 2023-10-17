@@ -11,11 +11,11 @@
  <h2>Repertório</h2>
 <div>
 <p align="center">
-<img height="50%" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&line_height=21&theme=react"/>
-<img height="172em" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
+<img height="120px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&line_height=21&theme=react"/>
+<img height="120px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  <div >
   
 <h2>Linguagens que estou aprendendo </h2>
