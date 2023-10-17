@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Kauã</h1>
+<h1>Olá! Eu sou o Kauã </h1>
 
 <h2>Algumas coisas sobre mim 👇</h2>
 
@@ -8,7 +8,7 @@
 - 😄 Pronouns: Ele/dele
 
 
- <h2>Repertório</h2>
+ <h2> 🥇 Repertório</h2>
 <div>
 <p align="center">
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&line_height=21&theme=react"/>
@@ -18,7 +18,7 @@
 <br><br><br><br><br><br><br>
  <div >
 
-<h2>Linguagens que Estou Aprendendo </h2>
+<h2> 💻 Linguagens que Estou Aprendendo </h2>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +33,7 @@
 
 
 
-<h1>Redes Sociais </h1> 
+<h1> 🎈 Redes Sociais </h1> 
 
 
  
@@ -41,7 +41,7 @@
   <a href = "mailto:kaua.hilton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kau%C3%A3-hilton-407086229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<h1>Minhas Plataformas</h1>
+<h1>💪 Minhas Plataformas</h1>
 
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Linkedin-555555.svg?&style=flat-square&logo=linkedin&logoColor=blue"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> <img src="https://img.shields.io/badge/Youtube-555555.svg?&style=flat-square&logo=youtube&logoColor=red"> 
 
