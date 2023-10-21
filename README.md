@@ -4,7 +4,7 @@
 
 - 🔭 Foco em ser Dev Fron-End 
 - 🌱 Estudando no momento JavaScript
-- 👯 Cursando CCO (4°)
+- 👯 Cursando Ciência da Computação (4°)
 - 😄 Pronouns: Ele/dele
 
 
