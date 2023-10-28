@@ -1,4 +1,5 @@
 <h1>Olá! Eu sou o Kauã </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hkaua&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h2>Algumas coisas sobre mim 👇</h2>
 
