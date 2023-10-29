@@ -51,3 +51,10 @@
 <p>👀 &nbsp;Visitas</p>
  <br>
 <img align="left" src="https://profile-counter.glitch.me/Hkaua/count.svg" />
+<br>
+
+
+<h3>Citações</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)
+
