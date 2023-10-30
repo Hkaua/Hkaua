@@ -48,13 +48,21 @@
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Linkedin-555555.svg?&style=flat-square&logo=linkedin&logoColor=blue"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> <img src="https://img.shields.io/badge/Youtube-555555.svg?&style=flat-square&logo=youtube&logoColor=red"> 
 <br>
 
-<p>👀 &nbsp;Visitas</p>
+## 👀 &nbsp;Visitas
  <br>
 <img align="left" src="https://profile-counter.glitch.me/Hkaua/count.svg" />
 <br>
 
 
-<h3>Citações</h3>
+## Citações
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)
+
+## PlayList   ![spotify](https://github.com/Hkaua/Hkaua/assets/115200562/cf967cfe-bb49-4015-bee9-63df4027e24d)
+
+
+* <a href="https://open.spotify.com/playlist/2n4R5wXot8uipI0nBEwiGK?si=905a748ea8d7411b"> Johnny Hooker
+* <a href="https://open.spotify.com/playlist/09A1L7pGI69iNGcroqk3DI?si=3ca6d45434ff46be"> 🌟Guns🌟
+* <a href="https://open.spotify.com/playlist/021BbRvMNHevzqYzzrjTKf?si=5be38eff6c814879"> 🌕🌖🌗🌘🌑
+* <a href="https://open.spotify.com/playlist/3WGqdYqMOZWIqB0r2xoVuP?si=176c927f3c184e6b"> Rockzinho
 
