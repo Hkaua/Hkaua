@@ -65,4 +65,5 @@
 * <a href="https://open.spotify.com/playlist/09A1L7pGI69iNGcroqk3DI?si=3ca6d45434ff46be"> 🌟Guns🌟
 * <a href="https://open.spotify.com/playlist/021BbRvMNHevzqYzzrjTKf?si=5be38eff6c814879"> 🌕🌖🌗🌘🌑
 * <a href="https://open.spotify.com/playlist/3WGqdYqMOZWIqB0r2xoVuP?si=176c927f3c184e6b"> Rockzinho
+* <a href="https://open.spotify.com/intl-pt/track/6mAfxuTuRz1FWfriiFf57y"> Don't Cry
 
