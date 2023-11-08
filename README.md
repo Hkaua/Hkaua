@@ -11,10 +11,10 @@
  <h2> 🥇 Repertório</h2>
 <div>
 <p align="center">
-<img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Hkaua&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="140px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hkaua&show_icons=true&theme=react"/>
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
-
+https://github-readme-stats.vercel.app/api/wakatime?username=Hkaua
 <br><br><br><br><br><br><br>
  <div >
 
@@ -66,4 +66,6 @@
 * <a href="https://open.spotify.com/playlist/021BbRvMNHevzqYzzrjTKf?si=5be38eff6c814879"> 🌕🌖🌗🌘🌑
 * <a href="https://open.spotify.com/playlist/3WGqdYqMOZWIqB0r2xoVuP?si=176c927f3c184e6b"> Rockzinho
 * <a href="https://open.spotify.com/intl-pt/track/6mAfxuTuRz1FWfriiFf57y"> Don't Cry
+
+ 
 
