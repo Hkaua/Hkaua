@@ -14,7 +14,7 @@
 <img height="140px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hkaua&show_icons=true&theme=react"/>
 <img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
-https://github-readme-stats.vercel.app/api/wakatime?username=Hkaua
+
 <br><br><br><br><br><br><br>
  <div >
 
