@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Kauã </h1>
+<h1>Olá! Eu sou o Kauã</h1>
 
 <h2>Algumas coisas sobre mim 👇</h2>
 
