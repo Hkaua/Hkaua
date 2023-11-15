@@ -2,7 +2,7 @@
 
 <h2>Algumas coisas sobre mim 👇</h2>
 
-- 🔭 Foco em ser Dev Fron-End 
+- 🔭 Foco em ser Dev Fron-End
 - 🌱 Estudando no momento: Java e JavaScript
 - 👯 Cursando Ciência da Computação (4°)
 - 😄 Pronouns: Ele/dele
