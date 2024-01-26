@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Kauã</h1>
   
-<h2>Algumas coisas sobre mim 👇</h2>
+<h2>Algumas coisas sobre mim 👇</h2> 
 
 - 🔭 Foco em ser Dev Fron-End
 - 🌱 Estudando no momento: Java e JavaScript
