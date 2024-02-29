@@ -11,8 +11,8 @@
  <h2> 🥇 Repertório</h2>
 <div>
 <p align="center">
-<img height="140px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hkaua&show_icons=true&theme=react"/>
-<img height="140px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
+<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=Hkaua&show_icons=true&theme=react"/>
+<img height="220px" align="left" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Hkaua&layout=compact&langs_count=16&theme=react" />
 </div>
 
 <br><br><br><br><br><br><br>
