@@ -6,7 +6,7 @@
 - 🌱 Estudando no momento: Java e JavaScript 
 - 👯 Cursando Ciência da Computação (5° Período)
 - 😄 Pronouns: Ele/dele 
-
+ 
   
  <h2> 🥇 Repertório</h2>
 <div>
