@@ -58,8 +58,7 @@
 ## Citações
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink)
-
-## PlayList   ![spotify](https://github.com/Hkaua/Hkaua/assets/115200562/cf967cfe-bb49-4015-bee9-63df4027e24d)
+<!--  ## PlayList   ![spotify](https://github.com/Hkaua/Hkaua/assets/115200562/cf967cfe-bb49-4015-bee9-63df4027e24d)
 
 
 * <a href="https://open.spotify.com/playlist/2n4R5wXot8uipI0nBEwiGK?si=905a748ea8d7411b"> Johnny Hooker
@@ -67,6 +66,6 @@
 * <a href="https://open.spotify.com/playlist/021BbRvMNHevzqYzzrjTKf?si=5be38eff6c814879"> 🌕🌖🌗🌘🌑
 * <a href="https://open.spotify.com/playlist/3WGqdYqMOZWIqB0r2xoVuP?si=176c927f3c184e6b"> Rockzinho
 * <a href="https://open.spotify.com/intl-pt/track/6mAfxuTuRz1FWfriiFf57y"> Don't Cry
+-->
 
- 
 
