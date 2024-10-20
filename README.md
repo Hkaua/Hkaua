@@ -4,8 +4,7 @@
 
 - 🔭 Foco em ser Dev Fron-End
 - 🌱 Estudando no momento: Java e JavaScript 
-- 👯 Cursando Ciência da Computação (5° Período)
-- 😄 Pronouns: Ele/dele 
+- 👯 Cursando Ciência da Computação (6° Período)
  
   
  <h2> 🥇 Repertório</h2>
